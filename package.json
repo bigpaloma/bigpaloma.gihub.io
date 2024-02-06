@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://bigpaloma.github.io/my-portfolio/",
+  "homepage": "https://bigpaloma.github.io/bigpaloma.gihub.io/",
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
