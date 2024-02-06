@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Expense Tracker",
+    "experiences": [
+      "Wissen über React erweitert",
+      "State Management",
+      "Deploying und Build Compilers waren eine Herausforderung",
+      "UI Komponenten mit Tailwind und Flowbite"
+    ],
+    "description": "Meine erste Full-Stack Applikation mit Cloud-Datenbank, Benutzer Authentifizierung, und komplett Dynamischer Datenvisualisierung. Responsive mit Tailwind",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Tailwind",
+      "Mongoose",
+      "Redux"
+    ],
+    "demo": "https://expense-tracker-y9qe.onrender.com",
+    "source": "https://github.com/bigpaloma/expenseTrack",
+    "imageSrc": "history/google.png"
+  }
+]
