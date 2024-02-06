@@ -9,5 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
-  base: "/bigpaloma.gihub.io/"
+  base: "./"
 });
