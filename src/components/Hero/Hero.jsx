@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Halli Hallo!</h1>
+        <h1 className={styles.title}>Hello!</h1>
         <p className={styles.description}>
           Mein Name ist Furkan Sengün.
           Ich bin ein angehender Web Entwickler mit einer Leidenschaft für
